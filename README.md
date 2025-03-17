@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 1. Project Overview​
 
 This project serves as a hands - on exploration of Convolutional Neural Networks (CNNs) within the realm of deep learning. By utilizing the COCO dataset for object detection, you'll navigate through the entire process, from initial data preprocessing to the final stages of model training, evaluation, and performance analysis. It's an opportunity to apply theoretical knowledge and build a functional image recognition system.
@@ -60,7 +60,4 @@ To begin this project, first ensure that your environment has all the required d
 
 - When training the model, experiment with different learning rates for the Adam optimizer. This can significantly impact the speed of convergence and the final accuracy.
 
-- Keep track of the training progress by logging metrics such as loss and accuracy at regular intervals. This will help you identify if the model is overfitting or underfitting.
-=======
-# Image-Recognition-Experiment-
->>>>>>> bd1f5c651ee4ccee025c296768b3ac7772807160
+  
